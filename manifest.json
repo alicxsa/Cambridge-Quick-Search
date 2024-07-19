@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Cambridge Dictionary Lookup",
+    "version": "1.0",
+    "description": "Look up selected text in the Cambridge Dictionary",
+    "permissions": ["contextMenus"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {}
+  }

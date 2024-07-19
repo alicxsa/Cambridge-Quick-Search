@@ -5,7 +5,9 @@ A sleek Chrome extension for instant Cambridge Dictionary lookups.
 Features
 
 🔍 Right-click to look up selected text in Cambridge Dictionary
+
 💾 Opens dictionary in a compact popup window
+
 🎯 Works on any webpage
 
 Installation
